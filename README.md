@@ -11,14 +11,14 @@ The project will develop embedded system software, sensor fusion, and image proc
 - Oğuzhan Şahin
 
 ### 🧠 Project Objectives
--Real-time sensor data collection and processing
--Implementation of object detection and tracking algorithms (e.g., YOLO)
--Ensuring stable motion and control of the mobile platform
--Sensor fusion of multiple modalities (camera, LiDAR) to improve target detection accuracy
--Autonomous and manual operation modes with operator override capability
--Emergency Stop (E-Stop) and optional autonomous withdrawal/escape behavior
--Validation of system performance in controlled test scenarios using non-harmful symbolic targets (LED markers, balloons, or simulation)
--Development of a ROS-based modular software architecture for easy expansion
+- Real-time sensor data collection and processing
+- Implementation of object detection and tracking algorithms (e.g., YOLO)
+- Ensuring stable motion and control of the mobile platform
+- Sensor fusion of multiple modalities (camera, LiDAR) to improve target detection accuracy
+- Autonomous and manual operation modes with operator override capability
+- Emergency Stop (E-Stop) and optional autonomous withdrawal/escape behavior
+- Validation of system performance in controlled test scenarios using non-harmful symbolic targets (LED markers, balloons, or simulation)
+- Development of a ROS-based modular software architecture for easy expansion
 
 ### 🛠️ Technologies to be Used
 - Python 
