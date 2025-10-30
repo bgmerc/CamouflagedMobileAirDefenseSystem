@@ -30,4 +30,5 @@ The project will develop embedded system software, sensor fusion, and image proc
 ### 🔗 İletişim
 - GitHub: [github.com/begumerc](https://github.com/)
 - LinkedIn: [Begüm Ercihan](https://www.linkedin.com/in/beg%C3%BCm-ercihan-811291219/)
-  
+- LinkedIn: [Oğuzhan Şahin](https://www.linkedin.com/in/o%C4%9Fuzhan-%C5%9Fahin1?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- LinkedIn: [İlknur Göçkon](https://www.linkedin.com/in/ilknur-g%C3%B6%C3%A7kon-4851ab258?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
